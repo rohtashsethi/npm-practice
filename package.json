@@ -1,0 +1,11 @@
+{
+  "name": "npm-practice",
+  "version": "1.0.0",
+  "description": "A practice project to learn and master the basics of node package manager aka npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohtash Sethi @rohtashsethi",
+  "license": "MIT"
+}
