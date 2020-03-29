@@ -4,7 +4,11 @@
   "description": "A practice project to learn and master the basics of node package manager aka npm",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\"s",
+    "start": "echo \"Running start script\"",
+    "stop": "echo \"Running stop script\"",
+    "restart": "echo \"Running restart script\"",
+    "start:dev": "echo \"Running start dev script\""
   },
   "author": "Rohtash Sethi @rohtashsethi",
   "license": "MIT"
